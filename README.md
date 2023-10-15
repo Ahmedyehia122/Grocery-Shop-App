@@ -4,6 +4,6 @@
 ###grocery_shop_app with :
 provider as a state management 
 Adding items to Cart 
-functionalites###
+functionalites
 
  
