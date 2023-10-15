@@ -1,3 +1,4 @@
 # grocery_shop_app
 
-   ![Screenshot_1697395115](https://github.com/Ahmedyehia122/Grocery-Shop-App-AYM-/assets/142153775/d6c64e92-6035-4f42-85d8-0ed715da6ad4) witdh ="150" height ="200"
+   #### add image :
+   <img src ="https://cdn.dribbble.com/userupload/3171878/file/original-323d53d170e54f3b664eaddeb92d8cd3.png?resize=1024x768">
