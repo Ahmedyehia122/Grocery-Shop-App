@@ -9,6 +9,11 @@
  
  <img src ="https://cdn.dribbble.com/userupload/3171878/file/original-323d53d170e54f3b664eaddeb92d8cd3.png?resize=1024x768">
 
+  ## 📸 Screen Record
+ 
+<video src="https://github.com/Ahmedyehia122/NewsReader/assets/142153775/2d578dd0-a439-41d5-9507-00872ea007c2
+"></video>
+
  ## 🏖️ Screenshots 
  
  
