@@ -3,16 +3,21 @@
 
  A grocery-selling application that offers a wide range of products such as fruits, vegetables,
   water, and more
- 
+
+  <br/>
 
  ## 🚀 Getting Started
  
  <img src ="https://cdn.dribbble.com/userupload/3171878/file/original-323d53d170e54f3b664eaddeb92d8cd3.png?resize=1024x768">
 
+ <br/>
+
   ## 📸 Screen Record
  
 <video src="https://github.com/Ahmedyehia122/NewsReader/assets/142153775/2d578dd0-a439-41d5-9507-00872ea007c2
 "></video>
+
+ <br/>
 
  ## 🏖️ Screenshots 
  
@@ -29,6 +34,8 @@
     <img src ="https://github.com/Ahmedyehia122/NewsReader/assets/142153775/308c810f-6186-4919-8f5f-150e59136e91" width="200" >
    </div>
 
+   <br/>
+
  ## 🛠 Dependencies
 
 
@@ -37,6 +44,27 @@
 
  #### provider: ^6.0.5
    [Provider](https://pub.dev/packages/provider) - A wrapper around InheritedWidget to make them easier to use and more reusable(State Management).
+
+ ## 🖊️ Contributing
+
+- Contributions are welcome 💜
+- If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
+
+  <br/>
+
+## 🤝Contact With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmedyehia122/) 
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](https://www.ahmedyehia.122a@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100033167761298)
+
+<br/>
+
+## 💖 Support
+
+- If you find this tutorial useful or learned something from this code, consider showing some ❤️ by starring this repo.
+  
+  <br/>
 
  # 🌸🌸  Thank You For Your Time 🌸🌸
 
